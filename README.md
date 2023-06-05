@@ -1,7 +1,7 @@
 ### Hi! I'm Artem. 
 18 yo. developer from Ukraine, but for obvious reasons currently living in Poland. \
 I had experience in ui/ux design, but now mostly focuse on coding. Passioned by all modern js/ts web stuff.
-Currently studying for a computer science and really wanna find a work.
+Currently studying for a computer science and really wanna find a job.
 
 [![wakatime](https://wakatime.com/badge/user/51b3ddec-74be-4fab-af60-bc5ac68e4323.svg)](https://wakatime.com/@51b3ddec-74be-4fab-af60-bc5ac68e4323)
 
