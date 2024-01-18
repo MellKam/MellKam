@@ -1,7 +1,5 @@
 ### Hi, I'm Artem! 
-19-year-old guy originally from Ukraine, but due to the war, I currently live in Poland. 
-
-My journey began from design at the age of 13, and it took an exciting turn when I discovered Figma. Now, I'm all about web stuff 🔥. \
+19-year-old guy originally from Ukraine, but due to the war, I currently live in Poland. \
 I mainly work with UI, but I'm constantly learning new things and keeping an eye on technology in other areas. 
 
 Currently studying for a computer science in [WSZIB](https://www.wszib.edu.pl/) Kraków 
