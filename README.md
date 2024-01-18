@@ -1,4 +1,4 @@
-### Hi, I'm Artem! 
+### Hi, I'm Artem! 👋
 19-year-old guy originally from Ukraine, but due to the war, I currently live in Poland. \
 I mainly work with UI, but I'm constantly learning new things and keeping an eye on technology in other areas. 
 
